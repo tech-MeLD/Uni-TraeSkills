@@ -1,0 +1,8 @@
+interface:
+  display_name: "Agent 平台 UI+功能风格"
+  short_description: "模块化能力叙事 + 强 CTA 的产品风格"
+  default_prompt: "Use $lite-ui to design the IA, components, and copy for a modern AI agent/developer platform UI."
+
+policy:
+  allow_implicit_invocation: true
+
