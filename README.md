@@ -34,6 +34,14 @@ A comprehensive design intelligence system covering brand identity, design token
 | **banner-design** | Social media, ad, and website hero banner generation with multiple art direction options |
 | **slides** | Strategic HTML presentations with Chart.js, design tokens, and responsive layouts |
 
+### Security
+
+Pre-deployment security audit for AI Agent projects, covering model services, knowledge bases, data pipelines, and infrastructure:
+
+| Skill | Description |
+|-------|-------------|
+| **agent-security-reviewer** | Comprehensive pre-deployment security review across 10 domains: model & inference services, RAGFlow knowledge bases, fine-tuning data governance, application security (OWASP LLM Top 10), authentication, data privacy, logging & monitoring, supply chain, infrastructure hardening, and compliance governance. Produces a structured `SECURITY_REVIEW_REPORT.md` with risk ratings and actionable remediation steps. |
+
 ### Design Dependency Chain
 
 ```
@@ -52,6 +60,7 @@ Application Code
 - **Self-contained units**: Each skill includes references, scripts, templates, and structured data
 - **Rich design intelligence**: Over 67 UI styles, 161 color palettes, 57 font pairings, and 99 UX guidelines across 16 technology stacks
 - **Cross-platform**: Templates for 20+ AI coding platforms (Cursor, Copilot, Codex, Claude, Gemini, Windsurf, etc.)
+- **Agent security**: Built-in security review skill for auditing AI Agent deployments before going live
 
 ## License
 
